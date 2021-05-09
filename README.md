@@ -29,3 +29,6 @@ Output:
 
 ## 3. Color Identification
 It is used to identify different colors in an image. It makes use of OpenCV and KMeans Algorithm. Please refer to the notebook for code and examples.
+
+
+Rithik Jain
